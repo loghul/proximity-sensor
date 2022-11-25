@@ -1,5 +1,5 @@
-### EX NO : 06
-### DATE  : 15/11/22
+### EX NO : 05
+### DATE  : 09/11/22
 # <p align="center"> Develop a simple application for proximity sensor using Sensor Manager in android studio.
  </p>
 
